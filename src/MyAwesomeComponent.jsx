@@ -9,6 +9,7 @@ const MyAwesomeComponent = () => {
     alert('Mini Componenent Library!');
   };
 
+  //this is where all the magic happens
   return (
     <Box size="medium">
       <Text size="small" color="#333">My Awesome Component!</Text>

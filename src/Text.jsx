@@ -1,4 +1,4 @@
-// Text.js
+// Text.jsx
 import React from 'react';
 
 const Text = ({ size = 'medium', color = '#0000FF', children }) => {

@@ -1,4 +1,4 @@
-// Box.js
+// Box.jsx
 import React from 'react';
 
 const Box = ({ size = 'medium', children }) => {
